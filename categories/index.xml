@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Edward0213的博客</title>
+    <link>http://chn0213.github.io/categories/</link>
+    <description>Recent content in Categories on Edward0213的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Wed, 01 Apr 2020 17:10:55 +0800</lastBuildDate>
+    
+	<atom:link href="http://chn0213.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>杂七杂八</title>
+      <link>http://chn0213.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</link>
+      <pubDate>Wed, 01 Apr 2020 17:10:55 +0800</pubDate>
+      
+      <guid>http://chn0213.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
